@@ -9,17 +9,17 @@
 ### WINDOWS BOOGERS ###
 Thumbs.db
 
-/node_modules
+#/node_modules
 /public/hot
 /public/storage
 /public/zip/
 /public/images/
 /public/images/media/
-/storage
-!/vendor/rehan/
-/vendor
+#/storage
+#!/vendor/rehan/
+#/vendor
 
-/storage
+#/storage
 .env
 .phpunit.result.cache
 Homestead.json
